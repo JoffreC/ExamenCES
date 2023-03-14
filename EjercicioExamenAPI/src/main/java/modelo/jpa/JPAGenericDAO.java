@@ -14,7 +14,7 @@ public class JPAGenericDAO<T, ID> {
 	
 	public JPAGenericDAO(Class<T> persistentClass) {
 		this.persistentClass = persistentClass;
-		EntityManagerFactory emf = Persistence.createEntityManagerFactory("jpaPersona");
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("ejercicioapi");
 		this.em = emf.createEntityManager();
 	} 
 	

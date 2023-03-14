@@ -20,9 +20,6 @@ public class PersonaDAO extends JPAGenericDAO<Persona, Integer>{
 		List<Persona> personas = consulta.getResultList();
 		return personas;
 	}
-	public static PersonaDAO getPersonaDAO() {
-		return personaDAO;
-	}
 	
 
 }
