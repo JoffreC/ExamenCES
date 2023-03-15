@@ -1,6 +1,6 @@
 # Persona API
 
 #### API Generada por:
-##### Joffre Cóndor, 
-##### Jimmy Quingatuña,
-##### Nicolás Toscano
+* Joffre Cóndor
+* Jimmy Quingatuña
+* Nicolás Toscano
